@@ -16,19 +16,9 @@ h1{
     text-align: center;
 }    
 
-.bg-image{
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background-image: url(
-    "https://algoritmomag.com/wp-content/uploads/2024/02/hidroponia-casera.jpg");
-    background-size: cover;
-    background-position: center;
-    filter: blur(15px);
-    z-index: -1;
-}
 
 #main-content{
+    background-color: 0,0,0,0.4;
     padding-top: 20px;
     padding-left: 40px;
     padding-right: 40px;
