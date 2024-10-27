@@ -1,0 +1,26 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #acf595;
+    color: azure;
+    text-align: center;
+    font-size: larger;
+    display: block;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    text-indent: 2%;
+}
+
+h3{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+p{
+    padding-left: 5%;
+    padding-right: 5%;
+}
