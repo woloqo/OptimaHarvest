@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { OlaComponent } from './ola/ola.component'; 
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, OlaComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
